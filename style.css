@@ -22,10 +22,10 @@ main {
     width: 100%;
 }
 
-.pokemon-imagem {
+.pokemon_image {
     position: absolute;
     bottom: 52%;
-    left: 38%;
+    left: 32%;
     transform: translate(-63% 20%);
     height: 18%;
 }
@@ -39,7 +39,7 @@ main {
     font-size: clamp(8px, 3vw, 25px);
 }
 
-.pokemon-nome {
+.pokemon_name {
     color: black;
     text-transform: capitalize;
 }
@@ -50,7 +50,7 @@ main {
     top: 65%;
     left: 14%;
 }
-.input-search {
+.input_search {
     width: 100%;
     padding: 5%;
     outline: none;

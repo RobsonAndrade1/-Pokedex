@@ -1,5 +1,0 @@
-#fetcher = buscar
-
-#response = resposta
-
-#rende = renderizar
