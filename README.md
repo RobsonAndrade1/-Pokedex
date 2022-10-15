@@ -14,6 +14,6 @@ Também pela primeira vez coloco a integração do projeto com um sistema API, f
 
 ### Linguagens:
 
-    HTML
-    CSS
-    JavaScript
+* HTML
+* CSS
+* JavaScript
